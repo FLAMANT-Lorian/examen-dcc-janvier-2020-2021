@@ -1,3 +1,6 @@
+@use "../settings/vars" as *; /*Pour pouvoir utiliser les varaibles dans le fichiers*/
+
+
 body {
   font-family: "Avenir Next", sans-serif;
   background: $bcg;
